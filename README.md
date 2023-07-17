@@ -1,3 +1,4 @@
+![](https://media.licdn.com/dms/image/C5612AQHmd9AATg11_Q/article-cover_image-shrink_423_752/0/1624009746068?e=1695254400&v=beta&t=Mv2sJiKN7TIRSkdaRe6rYKWKjFjW0exx0Wb1SyYrAo0)
 ![](https://www.springboard.com/blog/wp-content/uploads/2015/10/DataScienceContentBanner-700x252.png)
 <h1 align="center">Hi 👋, I'm QUEEN ZAINAB UKWUJEDE</h1>
 <h3 align="center">I'm a passionate Data Scientist</h3>
